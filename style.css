@@ -8,13 +8,55 @@ body {
 }
 
 .header {
-    width: 90%;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: auto;
     height: 50px;
     color: grey;
     background: #ebebeb;
     text-align: center;
     padding-top: 1%;
+}
+
+.section{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: auto;
+    height: 250px;
+    color: grey;
+    background: #ebebeb;
+    text-align: center;
+    padding-top: 1%;   
+    float:left; 
+}
+
+.article {
+    width: 450px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: auto;
+    height: 150px;
+    color: #ebebeb;
+    background:grey;
+    text-align: center;      
+}
+.handp {
+    width: 300px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 75px;
+    padding-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 2px;
+    height: 15px;
+    color: grey;
+    background: #ebebeb;
+    text-align: center;
 
 }
