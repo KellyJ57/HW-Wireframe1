@@ -10,21 +10,22 @@ body {
 .header {
     margin-left: auto;
     margin-right: auto;
-    margin-top: 5px;
+    margin-top: 10px;
     margin-bottom: auto;
     height: 50px;
     color: grey;
     background: #ebebeb;
     text-align: center;
     padding-top: 1%;
+    vertical-align: middle;
 }
 
 .section{
     width: 500px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 5px;
-    margin-bottom: auto;
+    margin-left: 0px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     height: 250px;
     color: grey;
     background: #ebebeb;
@@ -60,3 +61,29 @@ body {
     text-align: center;
 
 }
+.aside {
+    width: 435px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 260px;
+    color:grey;
+    background: #ebebeb;
+    text-align: center;  
+    float: left;    s
+}
+
+.footer {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    margin-bottom: 10px;
+    height: 50px;
+    color: grey;
+    background: #ebebeb;
+    text-align: center;
+    padding-top: 1%;
+    vertical-align: middle;
+}
+
