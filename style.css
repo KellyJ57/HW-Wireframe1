@@ -54,9 +54,10 @@ body {
     color: #ebebeb;
     background:grey;
     text-align: center;  
+    vertical-align: middle;
     /* overflow: auto;  */ 
 }
-.handp {
+.h {
     border: 1px solid #000;
     width: 90%;
     height: 50px;
@@ -65,17 +66,17 @@ body {
     padding-top: 75px;
     padding-bottom: 10px; 
     padding: auto;*/
-     margin-left: 23px;
-    /*margin-right: 5px; */
-    margin-top: 49px; /*
-    margin-bottom: 2px; */
+    margin-left: 23px;
+   /*margin-right: 5px; */
+   margin-top: 70px; /*
+   margin-bottom: 2px; */
     color: grey;
     background: #ebebeb;
     text-align: center;
-    vertical-align: middle;
+    vertical-align:;
 
 }
-.andp {
+.p {
     border: 1px solid #000;
     width: 90%;
     height: 50px;
@@ -95,7 +96,7 @@ body {
 
 }
 .aside {
-    width: 435px;
+    width: 437px;
     margin-left: 0px;
     margin-right: 0px;
     margin-top: 20px;
